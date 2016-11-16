@@ -1,4 +1,4 @@
 # Python-Learn
 ## datastruct & Alg
-#### 2.1 how to select data in List Dictionary jihe(-.-)
-#### 2.2 how to name element in List to make it more readable
+#### 2.1 在列表/字典/集合中选取数据
+#### 2.2 在列表中高效命名元素提高可读性

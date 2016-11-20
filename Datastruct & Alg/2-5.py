@@ -27,7 +27,7 @@ s2.viewkeys()
 s1.viewkeys() & s2.viewkeys() & s3.viewkeys()
 
 #duiyu N lunlaishuo
-#use map() dedaosuoyouzidian keys dejihe
-#use reduce() qusuoyouzidian keys dejihedejiaoji
+#use map() dedao suoyouzidian keys dejihe
+#use reduce() qu suoyouzidian keys dejihedejiaoji
 map(dict.viewkeys,[s1,s2,s3])
 reduce(lambda a,b: a & b, map(dict.viewkeys,[s1,s2,s3]))

@@ -6,4 +6,4 @@
     2.4 根据字典中值的大小对字典中的项排序
     2.5 快速找到多个字典中的公共键(key)(viewkeys)
     2.6 让字典保持有序(OrderedDict)
-    2.7 shixianyonghudelishijilugongneng(zuiduo n tiao)
+    2.7 实现用户的历史记录功能(最多n条)

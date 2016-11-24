@@ -7,5 +7,5 @@
     2.5 快速找到多个字典中的公共键(key)(viewkeys)
     2.6 让字典保持有序(OrderedDict)
     2.7 实现用户的历史记录功能(最多n条)
-#### disanzhang duixiangdiedai & fandiedaijiqiao
+#### 第三章 对象迭代 & 反迭代技巧
     3.1 实现可迭代对象和迭代器对象(1)
